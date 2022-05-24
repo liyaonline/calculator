@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\first-app"
+		},
+		{
+			"path": "..\\..\\js-tut"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "js-tut"
+	}
+}
